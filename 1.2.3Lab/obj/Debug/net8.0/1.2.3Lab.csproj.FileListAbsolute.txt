@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1.2.3Lab\1.2.3Lab\obj\Debug\net8.0\1.2.3Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\1.2.3Lab\1.2.3Lab\obj\Debug\net8.0\1.2.3Lab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1.2.3Lab\1.2.3Lab\obj\Debug\net8.0\1.2.3Lab.AssemblyInfo.cs
+C:\Users\User\source\repos\1.2.3Lab\1.2.3Lab\obj\Debug\net8.0\1.2.3Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\bin\Debug\net8.0\1.2.3lab.exe
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\bin\Debug\net8.0\1.2.3lab.deps.json
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\bin\Debug\net8.0\1.2.3lab.runtimeconfig.json
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\bin\Debug\net8.0\1.2.3lab.dll
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\bin\Debug\net8.0\1.2.3lab.pdb
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\obj\Debug\net8.0\1.2.3lab.dll
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\obj\Debug\net8.0\refint\1.2.3lab.dll
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\obj\Debug\net8.0\1.2.3lab.pdb
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\obj\Debug\net8.0\1.2.3lab.genruntimeconfig.cache
+C:\Users\User\source\repos\1.2.3lab\1.2.3lab\obj\Debug\net8.0\ref\1.2.3lab.dll
